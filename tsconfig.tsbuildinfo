@@ -1,0 +1,1 @@
+{"root":["./cypress/e2e/login.cy.ts","./cypress/pages/dashboardpage.ts","./cypress/pages/loginpage.ts","./cypress/pages/orderpage.ts","./cypress/support/commands.ts","./cypress/support/e2e.ts"],"errors":true,"version":"5.8.2"}
